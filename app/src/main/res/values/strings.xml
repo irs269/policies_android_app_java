@@ -516,6 +516,8 @@
     <string name="release_tag">v1.0.0</string>
     
     <!-- New Fields for Insuree Form -->
+    <string name="SelectResidenceEnvironment">Select Residence Environment</string>
+    <string name="ResidenceEnvironment">Residence Environment</string>
     <string name="NoDisability">No Disability</string>
     <string name="SelectNoDisability">Select No Disability</string>
     <string name="NonDisablingDisease">Non-Disabling Disease</string>
